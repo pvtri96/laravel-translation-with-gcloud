@@ -1,0 +1,11 @@
+{
+  "name": "gcloud-trans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trans.js",
+  "scripts": {
+    "start": "php index.php && node ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
